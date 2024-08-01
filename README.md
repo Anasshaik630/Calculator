@@ -60,8 +60,3 @@ Enter '-1' to exit.
 Your choice is: 1
 Enter all numbers separated by space: 5 10 15
 The answer is 30
-Contributors
-Your Name
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Calculator/README.md at main · jakkulavenkatarahul11/Calculator
